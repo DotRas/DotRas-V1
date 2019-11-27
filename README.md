@@ -10,6 +10,7 @@ With the amount of effort in this project, any amount of compensation is greatly
 
 #### Latest News
 02/22/2014 - It's been quite the long while since I deployed the last release candidate for DotRas since Windows 8 launched. Thank you all for your patience while this release was vetted. I was a bit more cautious than usual this time due to the fact that a new operating system was being introduced into the mix, and that I have quite a few more developers using the product now. Thank you all for your wonderful support, and I hope you like the latest version! As usual, if you have any questions, please let me know.
+
 01/03/2013 - Well it's official, DotRas v1.3 has finally moved into release candidate and all code is now frozen for the next few months while any bugs are identified and fixed before release. This release adds in much needed diagnostic capabilities for logging what is going on internally in the SDK. For more information, check the EnablingDiagnosticLogging example included with the download.
 
 #### Notes
