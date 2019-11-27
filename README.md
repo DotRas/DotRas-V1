@@ -1,6 +1,8 @@
 # DotRas-V1
 Contains the archived version of DotRas that was previously hosted on CodePlex.com. This project is no longer being supported.
 
+For the latest supported version, please see: https://github.com/winnster/DotRas
+
 ## DotRas v1.3 has launched!
 #### Attention - Support for .NET 2.0 will be ending with the 2.0 release!
 I wanted to make sure this was communicated well in advance. I am currently waiting for the 1.3 release to be finished, so this is probably quite a ways out (maybe a year or so). The intention is to make some modifications to adopt the new asynchronous programming model using the TPL used by .NET 4 for this version to make the product await compliant. Windows 8 will still be supported for the 1.3 release, which will also still support .NET 2.0. Please be aware of the methods marked obsolete methods in the 1.3 release because they will be removed in 2.0. As of right now these methods are simply marked as obsolete, they will not cause build errors, and are stilly fully functional, however as of 2.0 (the release after 1.3) they will be removed.
